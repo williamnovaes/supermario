@@ -1,0 +1,1519 @@
+fileFormatVersion: 2
+guid: 7dc346951bd60ec4eb9d0a742791bcf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7751702855695032492
+    second: supermario.fw_0
+  - first:
+      213: -3693978065680781462
+    second: supermario.fw_1
+  - first:
+      213: -7045063078190180324
+    second: supermario.fw_2
+  - first:
+      213: -3893904117534206955
+    second: supermario.fw_3
+  - first:
+      213: -1051633881749612339
+    second: supermario.fw_4
+  - first:
+      213: 2044674982127818825
+    second: supermario.fw_5
+  - first:
+      213: 8920897713365599242
+    second: supermario.fw_6
+  - first:
+      213: -8537439622606810681
+    second: supermario.fw_7
+  - first:
+      213: 5188586166214931859
+    second: supermario.fw_8
+  - first:
+      213: -5244527251277702882
+    second: supermario.fw_9
+  - first:
+      213: 2669154837045888427
+    second: supermario.fw_10
+  - first:
+      213: 6569748200779395093
+    second: supermario.fw_11
+  - first:
+      213: -6864219410177388327
+    second: supermario.fw_12
+  - first:
+      213: -3371472419648823803
+    second: supermario.fw_13
+  - first:
+      213: 239852753015863914
+    second: supermario.fw_14
+  - first:
+      213: 3151666515242373561
+    second: supermario.fw_15
+  - first:
+      213: -5956711900326019903
+    second: supermario.fw_16
+  - first:
+      213: 3753128764095062561
+    second: supermario.fw_17
+  - first:
+      213: -8762333703162953834
+    second: supermario.fw_18
+  - first:
+      213: 5348007330544445229
+    second: supermario.fw_19
+  - first:
+      213: 7343122808338896363
+    second: supermario.fw_20
+  - first:
+      213: -6347292217546775620
+    second: supermario.fw_21
+  - first:
+      213: -3826452889617417323
+    second: supermario.fw_22
+  - first:
+      213: -2213760806540581813
+    second: supermario.fw_23
+  - first:
+      213: 4794797036779539982
+    second: supermario.fw_24
+  - first:
+      213: 5769303919486318504
+    second: supermario.fw_25
+  - first:
+      213: 8873460164625570383
+    second: supermario.fw_26
+  - first:
+      213: -4705496908351220216
+    second: supermario.fw_27
+  - first:
+      213: 1320319761207084216
+    second: supermario.fw_28
+  - first:
+      213: 2270588549009910819
+    second: supermario.fw_29
+  - first:
+      213: 4246964487548588417
+    second: supermario.fw_30
+  - first:
+      213: -4579485449939776198
+    second: supermario.fw_31
+  - first:
+      213: -6931167526176395987
+    second: supermario.fw_32
+  - first:
+      213: 514353554617591075
+    second: supermario.fw_33
+  - first:
+      213: 4656054131037887233
+    second: supermario.fw_34
+  - first:
+      213: -160341090593955055
+    second: supermario.fw_35
+  - first:
+      213: 5546928767913051493
+    second: supermario.fw_36
+  - first:
+      213: 6981427035290221089
+    second: supermario.fw_37
+  - first:
+      213: 995599628534860607
+    second: supermario.fw_38
+  - first:
+      213: 7572251501010737924
+    second: supermario.fw_39
+  - first:
+      213: -63998231602376720
+    second: supermario.fw_40
+  - first:
+      213: 3967317315771761585
+    second: supermario.fw_41
+  - first:
+      213: 4165261456364328794
+    second: supermario.fw_42
+  - first:
+      213: -3220852412321934443
+    second: supermario.fw_43
+  - first:
+      213: 3600371903884837378
+    second: supermario.fw_44
+  - first:
+      213: 4977425005435400208
+    second: supermario.fw_45
+  - first:
+      213: -8270164395206161970
+    second: supermario.fw_46
+  - first:
+      213: -2036798188973913952
+    second: supermario.fw_47
+  - first:
+      213: -1467043431946583326
+    second: supermario.fw_48
+  - first:
+      213: -4006682920831606451
+    second: supermario.fw_49
+  - first:
+      213: 7881794558091249757
+    second: supermario.fw_50
+  - first:
+      213: -2248299518332691811
+    second: supermario.fw_51
+  - first:
+      213: -7630791112097507545
+    second: supermario.fw_52
+  - first:
+      213: 7531737185709533328
+    second: supermario.fw_53
+  - first:
+      213: 3841753009457539119
+    second: supermario.fw_54
+  - first:
+      213: -1789592996854960365
+    second: supermario.fw_55
+  - first:
+      213: -8955191659027006712
+    second: supermario.fw_56
+  - first:
+      213: 5233750837680789620
+    second: supermario.fw_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: supermario.fw_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec94abece5f9dd84f8440e3373055789
+      internalID: 7751702855695032492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39712dea6283a6b42bd68dafb2ad2b5c
+      internalID: -3693978065680781462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc388cc2ef4b92c4c9d07e7e6b88edb5
+      internalID: -7045063078190180324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0447e16a3df7c40b6bb3ff1138452a
+      internalID: -3893904117534206955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c267fdeee47fe546ac44217429ad285
+      internalID: -1051633881749612339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d4b922d9d398d4ebc27c5c8699322c
+      internalID: 2044674982127818825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fde9d6f4fc19374d9b3c1c8a4b02acb
+      internalID: 8920897713365599242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 208
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c038d390514d7e4da59f88de0deb03d
+      internalID: -8537439622606810681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 165
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f042166757374c9669c9e091b0733
+      internalID: 5188586166214931859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 167
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200e1e8ab8c13a347a63477d64a26dde
+      internalID: -5244527251277702882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 170
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c5d23a1af70b43a6de4ded9e34a2f
+      internalID: 2669154837045888427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 167
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9a6958faff4754ea8b3680397745c8
+      internalID: 6569748200779395093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37aecb90f7b22e408493e4fa0a690c0
+      internalID: -6864219410177388327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5152aaf36d280d448c14423a2cdf960
+      internalID: -3371472419648823803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 167
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e727f8ab6304964b84769849f319502
+      internalID: 239852753015863914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 170
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d387729431a0d498d959da85bffbc0
+      internalID: 3151666515242373561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 167
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703b63b7e51f1a44af428dfbd751319
+      internalID: -5956711900326019903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 165
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0462856a713e4bac542e6f6ff779d
+      internalID: 3753128764095062561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77490cb4657fb3a4688dae88d160cbcd
+      internalID: -8762333703162953834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 124
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3728721ac92105642a0244551551c3ee
+      internalID: 5348007330544445229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484d7394543c08a49a000a0abf7356d0
+      internalID: 7343122808338896363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a703f9a4e35941b1ef14f2bc0fd45
+      internalID: -6347292217546775620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 123
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fffddd8937294dbe889022ec5ac57
+      internalID: -3826452889617417323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 123
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6eceef240a3844ca02bdc39437980a
+      internalID: -2213760806540581813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd7d1d287e1b684c83756851cce8bc4
+      internalID: 4794797036779539982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c38e522ba3fbf4584f9b8251f98051
+      internalID: 5769303919486318504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 124
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918610506e5026d448ff5d844477d4e1
+      internalID: 8873460164625570383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 123
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2cb040bd9e89e4488f1ab0a995de7a
+      internalID: -4705496908351220216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 83
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b809b301252cce04fae7c9add0a96793
+      internalID: 1320319761207084216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 83
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9db6aef347b2a4e9bd2230e2455ed5
+      internalID: 2270588549009910819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4862355fd398efb4b9e09e6c1ff6d706
+      internalID: 4246964487548588417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625910f312093ee4da228938387fd45f
+      internalID: -4579485449939776198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 82
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa4b7db1e851d642960c4988c154987
+      internalID: -6931167526176395987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 82
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4160564946dbeb42af454f2717f6261
+      internalID: 514353554617591075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 83
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba500a0f6db6fb746b644f68e448ffcc
+      internalID: 4656054131037887233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 90
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233188c8101f56c42b3d49955f8011df
+      internalID: -160341090593955055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 83
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58d77e855cb3064f8e1cdd239a2c2c1
+      internalID: 5546928767913051493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 83
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f278f8f1f5731f4b9f933458cbad2d2
+      internalID: 6981427035290221089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a74f5ae9fe7c40b137e835a524b28
+      internalID: 995599628534860607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e251c02e07634d8efb66632e948d6
+      internalID: 7572251501010737924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6d28887e131e4e9f521ab12432bcf
+      internalID: -63998231602376720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 44
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4482b3809e2983349b892b1fe25d2aee
+      internalID: 3967317315771761585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d45f2f446590144583ed095a3bb1f3d
+      internalID: 4165261456364328794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fced07d43c52ea488c7e2ca7eb5495e
+      internalID: -3220852412321934443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 44
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafdb312df29bb34fbfe7e43675a88fb
+      internalID: 3600371903884837378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 43
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ddec138346e87428f34e8a1c34d2fb
+      internalID: 4977425005435400208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 44
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21121f3750e86d42bb2eaa0376ac89f
+      internalID: -8270164395206161970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 43
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a653e1f820f8c744790651d4336fe55a
+      internalID: -2036798188973913952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be639efb031894c48a4b602b12875f07
+      internalID: -1467043431946583326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9751c380932da2b46b36d448256faafb
+      internalID: -4006682920831606451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9afa4aaf5ae404bb5fc1bacb69d2d0
+      internalID: 7881794558091249757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 4
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a807f0477027847bb279bc133b5c52
+      internalID: -2248299518332691811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38391db4eec210744af595bf8ba704e0
+      internalID: -7630791112097507545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ba811e0e1720e4ab0ae55b3ac8bd8e
+      internalID: 7531737185709533328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a461f5abed599648aad515e95d4d82d
+      internalID: 3841753009457539119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca57bc590947344a3b7792c55bf592
+      internalID: -1789592996854960365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df141e1bb5ed1924badda5f6dddeac93
+      internalID: -8955191659027006712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: supermario.fw_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbb9ff76bf31364ba22056e79670d69
+      internalID: 5233750837680789620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
